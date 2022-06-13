@@ -1,0 +1,1 @@
+My resume and info about me is included in this repo.

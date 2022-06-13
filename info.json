@@ -1,0 +1,26 @@
+{
+    "name": "Mohammed Jaffery",
+    "website": "https://tomatohammado.github.io/",
+    "linkedin": "https://www.linkedin.com/in/tomatohammado/",
+    "github": "mjaffery1",
+    "email": "moe.jaffery@generalassemb.ly",
+    "resume": "TBD",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
