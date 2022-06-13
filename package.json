@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "your-command-here": "./index.js"
+    "yeet": "./index.js"
   }
 }
 
